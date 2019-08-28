@@ -28,3 +28,5 @@ NPM Packages:
 "mongodb": "^3.1.13",
 "mongoose": "^5.4.14",
 "concurrently": "^4.1.1"
+
+![](client/public/googlebookshome.jpg)
