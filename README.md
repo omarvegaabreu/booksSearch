@@ -1,3 +1,5 @@
+![](client/public/googlebookshome.jpg)
+
 # google-books-react-search
 
 URL: https://protected-chamber-72561.herokuapp.com
@@ -29,4 +31,4 @@ NPM Packages:
 "mongoose": "^5.4.14",
 "concurrently": "^4.1.1"
 
-![](client/public/googlebookshome.jpg)
+
